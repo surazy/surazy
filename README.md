@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1d27&height=160&section=header&text=surazy&fontSize=48&fontColor=6c63ff&animation=fadeIn" width="100%" alt="header banner"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&background=1A1D27&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Building+Offline-First+Systems;Low-Overhead+Architecture+Enthusiast;Systems+Developer+%26+Builder" alt="Typing SVG" /></a>
+
 # Hi, I'm surazy 👋
 
-**Vibe Coder & Full-Stack Developer** specializing in offline-first systems, low-overhead architectures, and reactive web/mobile applications.
+**Full-Stack Software Engineer & Systems Developer** specializing in offline-first systems, low-overhead architectures, and reactive web/mobile applications.
 
 📍 Based in Addis Ababa, Ethiopia 🇪🇹
 
