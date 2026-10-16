@@ -4,11 +4,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&background=1A1D27&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Building+Offline-First+Systems;Low-Overhead+Architecture+Enthusiast;Systems+Developer+%26+Builder" alt="Typing SVG" /></a>
 
-# Hi, I'm surazy 👋
+# Hi, I'm surazy
 
 **Full-Stack Software Engineer & Systems Developer** specializing in offline-first systems, low-overhead architectures, and reactive web/mobile applications.
 
-📍 Based in Addis Ababa, Ethiopia 🇪🇹
+Based in Addis Ababa, Ethiopia
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-surazy.me-1a1d27?style=for-the-badge&logo=googlechrome&logoColor=6c63ff)](https://surazy.me)
 [![Email](https://img.shields.io/badge/Email-surazystore@gmail.com-1a1d27?style=for-the-badge&logo=gmail&logoColor=6c63ff)](mailto:surazystore@gmail.com)
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend & Mobile
 [![React](https://img.shields.io/badge/React_19-1a1d27?style=for-the-badge&logo=react&logoColor=6c63ff)](https://react.dev)
@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 - **Modular Offline-First ERP**: 22-module desktop enterprise suite running zero-latency operations in low-connectivity environments
 - **AutoMaster Pro**: Dedicated offline desktop workspace for auto repair shops, parts inventory, and technician workflows
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-## 📫 Connect
+## Connect
 
 - Portfolio: [surazy.me](https://surazy.me)
 - Email: surazystore@gmail.com
