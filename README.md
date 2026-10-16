@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1d27&height=160&section=header&text=surazy&fontSize=48&fontColor=6c63ff&animation=fadeIn" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1d27&height=180&section=header&text=surazy&fontSize=54&fontColor=6c63ff&animation=fadeIn&fontAlignY=38&desc=%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%20%7C%20System%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="header banner"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&background=1A1D27&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Building+Offline-First+Systems;Low-Overhead+Architecture+Enthusiast;Systems+Developer+%26+Builder" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&background=1A1D27&center=true&vCenter=true&width=600&lines=Forging+offline-first+systems;Level+99+Vibe+Engineering;Anime+%26+Systems+Architect;Building+zero-latency+domains" alt="Typing SVG" /></a>
 
 # Hi, I'm surazy
 
-**Full-Stack Software Engineer & Systems Developer** specializing in offline-first systems, low-overhead architectures, and reactive web/mobile applications.
+> "Every system is a world waiting to be built. Ship the quest, level up the code."
+
+**Full-Stack Software Engineer & Systems Developer** specializing in offline-first systems, low-overhead architectures, and reactive web/mobile applications. Part anime fan, part systems architect.
 
 Based in Addis Ababa, Ethiopia
 
@@ -15,9 +17,9 @@ Based in Addis Ababa, Ethiopia
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2&section=header" width="100%" alt="divider"/>
 
-## Tech Stack
+## // SYSTEM INVENTORY
 
 ### Frontend & Mobile
 [![React](https://img.shields.io/badge/React_19-1a1d27?style=for-the-badge&logo=react&logoColor=6c63ff)](https://react.dev)
@@ -45,18 +47,23 @@ Based in Addis Ababa, Ethiopia
 [![Docker](https://img.shields.io/badge/Docker-1a1d27?style=for-the-badge&logo=docker&logoColor=6c63ff)](https://www.docker.com)
 [![Bash](https://img.shields.io/badge/Bash-1a1d27?style=for-the-badge&logo=gnubash&logoColor=6c63ff)](https://www.gnu.org/software/bash/)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2a2d3a&height=1&section=header" width="100%" alt="divider"/>
 
-## What I'm Building
+## // CURRENT ARCS
 
-- **Modular Offline-First ERP**: 22-module desktop enterprise suite running zero-latency operations in low-connectivity environments
-- **AutoMaster Pro**: Dedicated offline desktop workspace for auto repair shops, parts inventory, and technician workflows
-- **AuraLens**: Biometric & beauty analysis platform with live webcam facial tracking
-- **Aegis**: Operational security & dead man's switch system using Cloudflare Workers & Web Crypto API
+- **Modular Offline-First ERP** (Arc: Iron Fortress): 22-module desktop enterprise suite running zero-latency operations in low-connectivity environments
+- **AutoMaster Pro** (Arc: The Workshop Guild): Dedicated offline desktop workspace for auto repair shops, parts inventory, and technician workflows
+- **AuraLens** (Arc: Mirror Sight): Biometric & beauty analysis platform with live webcam facial tracking
+- **Aegis** (Arc: Dead Man's Oath): Operational security & dead man's switch system using Cloudflare Workers & Web Crypto API
 
----
+## // ANIME QUESTS
 
-## GitHub Stats
+- **Anime Streaming Platform** (Quest: Watch Party Dungeon): Streaming platform for anime fans, built for smooth playback and a clean viewing experience
+- **Ethiopian Anime Community Hub** (Quest: Guild Hall of Otaku): A community hub bringing Ethiopian anime fans together to share, discuss, and grow the scene
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2&section=header" width="100%" alt="divider"/>
+
+## // POWER LEVEL & TELEMETRY
 
 <div align="center">
 
@@ -70,9 +77,15 @@ Based in Addis Ababa, Ethiopia
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2&section=header" width="100%" alt="divider"/>
 
-## Connect
+## // CONNECT
 
 - Portfolio: [surazy.me](https://surazy.me)
 - Email: surazystore@gmail.com
+
+<div align="center">
+
+<sub>// end of transmission //</sub>
+
+</div>
